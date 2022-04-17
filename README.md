@@ -12,6 +12,9 @@ You can launch a [DEMO](Fractals/) of this programm
 
 4. Enjoy the View !
 
+[JULIA](View/Julia.png) 
+[MANDELBROT](View/Mandelbrot.png) 
+
 
 
 
