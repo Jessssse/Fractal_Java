@@ -1,5 +1,6 @@
 # Fractal_Java
-Julia and Mandelbrot Fractal with canva
+
+[JULIA](https://en.wikipedia.org/wiki/Julia_set) and [MANDELBROT](https://en.wikipedia.org/wiki/Mandelbrot_set)  set of Fractal with canva
 
 You can launch a [DEMO](Fractals/) of this programm
 
